@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/Portfolio2/static/css/main.61364812.css",
+    "main.js": "/Portfolio2/static/js/main.ea8acdd4.js",
+    "static/js/787.1ed0c42c.chunk.js": "/Portfolio2/static/js/787.1ed0c42c.chunk.js",
+    "static/media/Soham_Dey.pdf": "/Portfolio2/static/media/Soham_Dey.44533d67bf1ebc29693f.pdf",
+    "static/media/SohamDey.jpg": "/Portfolio2/static/media/SohamDey.7511cea0cd1ccf7b06cd.jpg",
+    "index.html": "/Portfolio2/index.html",
+    "main.61364812.css.map": "/Portfolio2/static/css/main.61364812.css.map",
+    "main.ea8acdd4.js.map": "/Portfolio2/static/js/main.ea8acdd4.js.map",
+    "787.1ed0c42c.chunk.js.map": "/Portfolio2/static/js/787.1ed0c42c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.61364812.css",
+    "static/js/main.ea8acdd4.js"
+  ]
+}
